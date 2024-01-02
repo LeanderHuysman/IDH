@@ -1,0 +1,540 @@
+,Owner_entity,COUNT(*)
+0,"Kwb. St. Lutgardis, Oth",1
+1,"Ccod. Aalst, Oth",1
+2,"Cvp-jongeren, Gent, Oth",1
+3,"Ksa. Poperinge, Oth",1
+4,"Ksa. St.-jacobsbond, Oth",1
+5,"Acw. Zottegem, Oth",1
+6,"Vksj. Erembodegem, Oth",1
+7,"Ksa-vksj. Deinze, Oth",1
+8,"Ksa-vksj. Lichtaart, Oth",1
+9,"Ksj. Ganshoren, Oth",1
+10,"Vksj. Edegem, Oth",1
+11,"Ksa. Lauwe, Oth",1
+12,"Vksj. Oudenaarde, Oth",1
+13,"Ksa. Lommel, Oth",1
+14,"Ksa. Kortrijk, Oth",1
+15,"Ksa. Roeselare, Oth",1
+16,"Klj. Sint-katelijne-waver, Oth",1
+17,"Klj. Wortel, Oth",1
+18,"Ksa. Aalst, Oth",1
+19,"Ksa. Jongknapen Roeselare, Oth",1
+20,"Ksa. Merkem, Oth",1
+21,"Ksa. Watou, Oth",1
+22,"Mpi. Ganspoel, Oth",1
+23,"Cvp. Bree-opitter, Oth",1
+24,"Cvp-jongeren, Dilsen, Oth",1
+25,"Cvp. Antwerpen Luchtbal, Oth",1
+26,"Cvp-jongeren, Ieper, Oth",1
+27,"Cvp. Groot-middelkerke, Oth",1
+28,"Cvp, Nevele, Oth",1
+29,"Cvp, Poperinge, Oth",1
+30,"Koninklijke Fanfare Sint-lambertus, Beersel, Oth",1
+31,"Fanfare De Braeckmanszonen, Boekhoute, Oth",1
+32,"Koninklijke Katholieke Fanfare Eendracht, Burcht, Oth",1
+33,"Koninklijke Harmonie De Drij Koningen, Borgerhout, Oth",1
+34,"Cvp, Sint-genesius-rode, Oth",1
+35,"Cvp. Gent, Oth",1
+36,"Ipovo, Gent, Oth",1
+37,"Cvp, Grobbendonk-bouwel, Oth",1
+38,"Cvp, Harelbeke, Oth",1
+39,"Cvp, Heist-op-den-berg, Oth",1
+40,"Cvp, Hoogstraten, Oth",1
+41,"Cvp. Antwerpen-noord, Oth",1
+42,"Cvp, Balen-olmen, Oth",1
+43,"Cvp, Boom, Oth",1
+44,"Cvp, Sint-katelijne-waver, Oth",1
+45,"Cvp, Lokeren, Oth",1
+46,"Cvp. Beervelde-lochristi-zaffelare-zeveneken, Oth",1
+47,"Cvp, Wemmel, Oth",1
+48,"Cvp-evp, Herent, Oth",1
+49,"Cvp, Roeselare-tielt, Oth",1
+50,"Cvp-evp, Bierbeek, Oth",1
+51,"Cvp, Liedekerke, Oth",1
+52,"Toneelgroep De Reynaertghesellen, Leuven, Oth",1
+53,"Koninklijke Katholieke Harmonie De Eendracht, Baasrode, Oth",1
+54,"Vrije Accordeonmaatschappij De Nachtegaal, Edegem, Oth",1
+55,"Koninklijke Harmonie Poldergalm, Dudzele, Oth",1
+56,"Koninklijke Fanfare Sint-Cecilia, Kastel, Oth",1
+57,"Koninklijke Harmonie St. Cecilia, Herentals, Oth",1
+58,"Koninklijke Harmonie Kunst Na Arbeid, Kortrijk, Oth",1
+59,"Koninklijke Harmonie St. Cecilia, Lebbeke, Oth",1
+60,"Koninklijke Fanfare Vermaak En Kunst Lille, Oth",1
+61,"Koninklijke Harmonie Sint-lambertus, Muizen, Oth",1
+62,"Koninklijke Fanfare Sint-Cecilia, Londerzeel, Oth",1
+63,"Koninklijke Harmonie Hoop In De Toekomst, Paal, Oth",1
+64,"Harmonie Sint Cecilia, Oudenburg, Oth",1
+65,"Koninklijke Fanfare Sint-huibrecht, Ramsel, Oth",1
+66,"Koninklijke Fanfare De Lindegalm, Retie, Oth",1
+67,"Koninklijke Fanfare De Kunst Is Ons Vermaak, Rollegem-kapelle, Oth",1
+68,"Koninklijke Fanfare St. Rosalia, Edegem, Oth",1
+69,"Cvp-jongeren, Glabbeek, Oth",1
+70,"Ocipe., Oth",1
+71,"Vierde Wereld BelgiÃ«, Oth",1
+72,"Secretariaat Voor Het Godsdienstonderricht In De OfficiÃ«le Scholen (segos)., Oth",1
+73,"Fraterniteit Van De Boodschap Gent, Rpy",1
+74,"Interdiocesaan Pastoraal Beraad Brussel, Oth",1
+75,"Doscko., Oth",1
+76,"Pax Christi, Vlaanderen, Oth",1
+77,"Gezinsbond., Oth",1
+78,"Belgische Boerenbond. Clg., Oth",1
+79,"Pauselijke Missiewerken Brussel, Oth",1
+80,"Commission Interdiocesaine Francophone De La Pastorale Du Tourisme, Oth",1
+81,"Vereniging Voor Het Theologisch Bibliothecariaat, Othwerkgroep Wetenschappelijk-theologische Bibliotheken, Othvereniging Van Religieus-wetenschappelijke Bibliothecarissen, Oth",1
+82,"Broederlijk Delen, Oth",1
+83,"Priester Daensfonds, Oth",1
+84,"Katholieke Jeugdraad, Brussel, Oth",1
+85,"Landsbond Der Christelijke Mutualiteiten., Othlandsbond Der Christelijke Mutualiteiten. Infocentrum Gvo, Oth",1
+86,"Centres De PrÃ©paration Au Mariage De Belgique Francophone, Oth",1
+87,"Minderbroeders Conventuelen, Oth",1
+88,"Jeugd En Gezondheid, Othcm, Christelijke Mutualiteiten, Oth",1
+89,"Vikariaat Voor Buitenlandse Studenten, Oth",1
+90,"Mechelen-brussel, Aartsbisdom. Centrum Voor Evangelizatie, Othmechelen-brussel, Aartsbisdom. Diocesane Dienst Voor De Missiepastoraal, Othmechelen-brussel. Pauselijke Missiewerken, Oth",1
+91,"Franciscusgemeenschap Ieper, Oth",1
+92,"Minderbroeders, Oth",1
+93,"Verbond Van Kristelijke Mutualiteiten Van Limburg, Hasselt, Oth",1
+94,"Milac. Brabant, Oth",1
+95,"Sago, Oth",1
+96,"Christen Forum. Stuurgroep, Oth",1
+97,"Acv. Turkse Sectie, Oth",1
+98,"Mariale Priesterbeweging, Othminderbroeders, Oth",1
+99,"Nationaal Scoutsarchief, Oth",1
+100,"Bovijnfonds : Bonen Voor Bohnen, Oth",1
+101,"Ksa-vksj, Brussel, Oth",1
+102,"Ksa-vksj. Brabant, Oth",1
+103,"Jebron-jeugdpastoraal Aalst, Oth",1
+104,"Cvp-jongeren. Merksem, Oth",1
+105,"Vksj-ksa. Limburg, Oth",1
+106,"Christelijke Vrouwen Uit De Middengroepen (cmbv), Othmarkant, Oth",1
+107,"Zusters Franciscanessen, Oth",1
+108,"Kleine Zusters Van Jezus, Oth",1
+109,"Ncmv. Hasselt, Oth",1
+110,"Centrum Ontwikkelingssamenwerking Kortrijk Kontinenten, Oth",1
+111,"Prelatuur Van Het Opus Dei In BelgiÃ«, Oth",1
+112,"Katholiek Bekeringswerk, Oth",1
+113,"De Vrienden Van A.K. Emmerick En Rosalie Put, Oth",1
+114,"Eigentijdse Jeugd, Oth",1
+115,"Colombia-vrienden, Oth",1
+116,"Provinciale Dienst Voor De Jeugd Brabant, Clb",1
+117,"Kvg. Werkgroep Vorming En Aktie, Oth",1
+118,"Caritas Confederatie Van Instellingen., Oth",1
+119,"Welzijnszorg-broederlijk Delen. Animatiedienst, Oth",1
+120,"Nationale Beroepsvereniging Van Meubelhandelaars (navem), Oth",1
+121,"SteuncomitÃ© Claes, Oth",1
+122,"Jeugddienst Voor Het Bisdom Antwerpen, Oth",1
+123,"Cvp Deurne, Oth",1
+124,"Ecclesiola, Oth",1
+125,"Vksj-west, Oth",1
+126,"Vkm. Limburg. Ziekenzorg, Oth",1
+127,"Gilde Van O.L. Vrouwe Lof, Oth",1
+128,"Vkz. Kortrijk, Oth",1
+129,"Vooc., Othnvoc, Oth",1
+130,"Ncmv, Oth",1
+131,"Priesterbroederschap St.-pius X, Oth",1
+132,"Vvkm., Othvvks., Oth",1
+133,"Verbond Van Instellingen Voor Gehandicapten En Bijzondere Jeugdzorg, Oth",1
+134,"Vita Et Pax, Oth",1
+135,"Samenlevingsopbouw, Alken, Oth",1
+136,"Wereldscholen, Brussel, Oth",1
+137,"Wereldscholen, Houthalen, Oth",1
+138,"Wereldscholen, Limburg, Oth",1
+139,"Wereldscholen, Oth",1
+140,"Wereldscholen, Oth, Vorming Tot Bevrijding",1
+141,"Kristelijke Ziekenfondsen. Vakantiedienst, Brussel, Oth",1
+142,"Kaj, Oth",1
+143,"Nsvo, Nationaal Sportverbond Vrij Onderwijs, Oth",1
+144,"Kbg, Oth",1
+145,"Bivro, Oth",1
+146,"Chirojeugd Limburg, Oth",1
+147,"Beroepsvereniging Van Katholieke Maatschappelijk Assistenten. Afdeling Brabant, Oth",1
+148,"Stil Leven, Oth",1
+149,"De Vrienden Van De Waai, Oth",1
+150,"Acw. Arrondissement Brugge., Oth",1
+151,"HulpcomitÃ© Bukavu, Oth",1
+152,"Acw. Arrondissement Kortrijk., Oth",1
+153,"Fedekam-limburg, Oth",1
+154,"Kjm, Oth",1
+155,"Cvp-jongeren. Antwerpen, Oth",1
+156,"Cvp-jongeren. Studentenploegen, Othvds Antwerpen-brussel-gent-hasselt-kortrijk-leuven, Oth",1
+157,"Christelijke Vervoerarbeiders En Diamantbewerkers, Oth",1
+158,"Acw. Aalst, Oth",1
+159,"ConfÃ©rence Des Organisations Internationales Catholiques, Oth",1
+160,"Jong-kvg-genk, Oth",1
+161,"Jkvg. Diepenbeek, Oth",1
+162,"Jkvg. West-limburg, Oth",1
+163,"Davidsfonds Don Bosco Kessel-lo, Oth",1
+164,"Vormingscentrum Bremberg, Oth",1
+165,"Acv. Christelijke Centrale Van Vervoerarbeiders. Sleepdiensten, Oth",1
+166,"Feeca, Oth",1
+167,"Kortrijks Gregoriaans Koor, Oth",1
+168,"Milac. Oost-vlaanderen, Oth",1
+169,"Fedekam-brabant, Oth",1
+170,"Catechumenat Des Adultes, Oth",1
+171,"Ccmb. Brabant, Oth",1
+172,"Disop Brussel, Oth",1
+173,"Vds-gent, Oth",1
+174,"Acw. Land Van Waas, Oth",1
+175,"Kontaktgroep Basisgroepen, Brugge, Oth",1
+176,"Acv-jongeren. St. Lenaarts, Oth",1
+177,"Sipeca, Oth",1
+178,"Missiehuis Van Scheut, Oth",1
+179,"Leven In Liefde, Oth",1
+180,"Equipes Notre-dame. Secteur D'anvers, Oth",1
+181,"Vakantiegenoegens. Turnhout, Oth",1
+182,"Zusters Annonciaden Huldenberg., Oth",1
+183,"Universitaire Parochie Antwerpen, Oth",1
+184,"Omizo, Oth",1
+185,"Cmbv. Brugge, Oth",1
+186,"Dominikanen. Knokke-heist, Oth",1
+187,"Filosofenfontein, Oth",1
+188,"ComitÃ© International Catholique Des Aveugles, Othinternationaal Katholiek Blinden Komitee, Othinternational Catholic Committee For The Blind, Oth",1
+189,"Caritas Internationalis, Oth",1
+190,"Kjm. Roeselare, Oth",1
+191,"Sint-paulus Jeugdkampen, Brussel, Oth",1
+192,"Missieanimatie Sint-godelieveparochie, Oth",1
+193,"Jongenstehuis Pieter Simenon, Oth",1
+194,"Lcm, Oth",1
+195,"Presidium O. L. Vrouw Der Armen - Hasselt, Oth",1
+196,"Wanakkam, Oth",1
+197,"Kwb. Sint-juliaan Oudergem, Oth",1
+198,"Vrienden Van Het Molenhuis, Oth",1
+199,"Vvkm/s. Noordzeegouw, Oth",1
+200,"Hasselt, Bisdom. Vicariaat Voor De Religieuzen, Oth",1
+201,"Paroisse S. Paul, Oth",1
+202,"Missiekomitee, Geluwe, Oth",1
+203,"Jec, Oth",1
+204,"Tele-bouworde, Oth",1
+205,"Tele-bouworde, Aalst, Oth",1
+206,"Ksa-vksj. Brabant. Sein, Oth",1
+207,"Lutgardis Sint-juliaan. Kleuter- En Basisschool Oudergem, Oth",1
+208,"Ksa Scarphoutstede, Oth",1
+209,"Interdiocesaan ComitÃ©, Oth",1
+210,"Davidsfonds Ieper, Oth",1
+211,"Davidsfonds Meise, Oth",1
+212,"Davidsfonds Lichtenhove, Oth",1
+213,"Davidsfonds 's Gravenwezel, Oth",1
+214,"Davidsfonds Rijmenam, Oth",1
+215,"Davidsfonds Paal, Oth",1
+216,"Davidsfonds Roosdaal, Oth",1
+217,"Davidsfonds Mechelen, Oth",1
+218,"Davidsfonds Sint-maria-oudenhove, Oth",1
+219,"Davidsfonds Schoten, Oth",1
+220,"Davidsfonds Zeebrugge, Oth",1
+221,"Davidsfonds Wezembeek-oppem, Oth",1
+222,"Davidsfonds Wondelgem, Oth",1
+223,"Davidsfonds Waregem, Oth",1
+224,"Davidsfonds Lier, Oth",1
+225,"Davidsfonds. Gewestbond Taxandria, Oth",1
+226,"Davidsfonds. Gewest Voorkempen, Oth",1
+227,"Davidsfonds Destelbergen, Oth",1
+228,"Davidsfonds Wezel, Oth",1
+229,"Chiro Maeva Aalst, Oth",1
+230,"Davidsfonds Borsbeek, Oth",1
+231,"Davidsfonds Bree, Oth",1
+232,"Davidsfonds Ledeberg, Oth",1
+233,"Davidsfonds Moorsele, Oth",1
+234,"Davidsfonds Bonheiden, Oth",1
+235,"Davidsfonds Halle-in-de-kempen, Oth",1
+236,"Davidsfonds Zaventem, Oth",1
+237,"Davidsfonds Menen, Oth",1
+238,"Davidsfonds Ravels, Oth",1
+239,"Davidsfonds Dendermonde, Oth",1
+240,"Davidsfonds Moorslede, Oth",1
+241,"Davidsfonds De Haan, Oth",1
+242,"Davidsfonds Genk, Oth",1
+243,"Davidsfonds Dudzele, Oth",1
+244,"Davidsfonds Beerse, Oth",1
+245,"Koninklijke Harmonie Poldergalm Dudzele - Brugge, Oth",1
+246,"Davidsfonds Ninove, Oth",1
+247,"Ksa Frassatie Brugge, Oth",1
+248,"Cvp Onze-lieve-vrouw Waver, Oth",1
+249,"Koninklijk Instituut Spermalie Brugge, Oth",1
+250,"Acw. Bilzen, Oth",1
+251,"Acw Izegem, Oth",1
+252,"Chiro Genk, Oth",1
+253,"Chiro Geraardsbergen, Oth",1
+254,"Aalmoezeniersdienst Van Het Kwartier Koningin Albert Iste, Oth",1
+255,"Secretariado Latinoamericano De Pax Romana Miic, Oth",1
+256,"Chiro Erps-kwerps, Oth",1
+257,"Camillapersoneelsgroep Sint-camillusziekenhuis Antwerpen, Oth",1
+258,"Kerkgemeenschap St. Rochus Brussel, Oth",1
+259,"Cvp, Ninove, Oth",1
+260,"Cvp Jabbeke, Oth",1
+261,"Cvp Wondelgem, Oth",1
+262,"Cvp Staden, Oth",1
+263,"Cvp Melle, Oth",1
+264,"Cvp Oeselgem-dentergem, Oth",1
+265,"Cvp Deinze, Oth",1
+266,"Cvp Ruiselede, Oth",1
+267,"Cvp De Haan, Oth",1
+268,"Cvp Evergem, Oth",1
+269,"Visite Aux Malades Dans Les Ã‰tablissements Hospitaliers, Oth",1
+270,"Cvp Destelbergen-heusden, Oth",1
+271,"Cvp Dadizele, Oth",1
+272,"Vakantiegenoegens. Gewest Gent, Oth",1
+273,"Ncmv. Gewest Eeklo, Oth",1
+274,"Soeurs Ermites De La Sanctification Universelle, Oth",1
+275,"Cvp-jongeren. Arrondissement Aalst, Oth",1
+276,"Cvp-jongeren. Arrondissement Leuven, Oth",1
+277,"Cvp-jongeren. Arrondissement Mechelen, Oth",1
+278,"Kaj. Arrondissement Ieper, Oth",1
+279,"Cvp-jongeren. Arrondissement Turnhout, Oth",1
+280,"Cvp-jongeren. Arrondissement Roeselare-tielt, Oth",1
+281,"Ten Wijngaard, Zichem, Oth",1
+282,"Technisch Instituut Dames Van Maria, Aalst, Oth",1
+283,"Kav-limburg, Oth",1
+284,"Conseil GÃ©nÃ©ral De L'apostolat Des LaÃ¯cs., Oth",1
+285,"Heilig-hartkollege, Ganshoren, Oth",1
+286,"Virgo Sapiensinstituut, Londerzeel, Oth",1
+287,"Normaalschool Urselinen, Onze-lieve-vrouw-waver, Oth",1
+288,"Sint-teresiainstituut, Gent, Oth",1
+289,"Ursula-instituut, Sint-truiden, Oth",1
+290,"Berkenboom, Oth",1
+291,"Hagelstein, Sint-katelijne-waver, Oth",1
+292,"Heilig Grafinstituut, Sint-truiden, Oth",1
+293,"Instituut Heilige Familie, Tielt, Oth",1
+294,"St.-jan Berchmansinstituut, Zonhoven, Oth",1
+295,"Vriendenkring Cardijn, Opwijk, Oth",1
+296,"Milac. Tessenderlo, Oth",1
+297,"Redemptorists., Oth",1
+298,"Sint-hendrikscollege, Deinze, Oth",1
+299,"Sint-lambertuscollege, Peer, Oth",1
+300,"Sint-guido-instituut, Brussel, Oth",1
+301,"Onze-lieve-vrouwcollege Boom, Othonze-lieve-vrouwehandelsinstituut, Boom, Oth",1
+302,"Sint-Mariainstituut, Tervuren, Othh.-hartcollege, Tervuren, Oth",1
+303,"Sint-aloysiuscollege, Meerbeke, Oth",1
+304,"Sint-Mariainstituut, Tervuren, Oth",1
+305,"Humaniora Virga Jesse, Oth",1
+306,"Zusters Van De Vereniging Met Het H. Hart, Othsoeurs De L'union Au SacrÃ©-coeur, Oth",1
+307,"Davidsfonds Heverlee, Oth",1
+308,"Milac. Hooglede, Oth",1
+309,"Milac. Groot-ternat, Oth",1
+310,"Milac. Westmalle, Oth",1
+311,"Davidsfonds Sint-amandsberg, Oth",1
+312,"Kadervorming Voor Afrikanen, Othkatoliek Beurzenfonds Voor Afrikanen., Oth",1
+313,"Lbc-nvk, Landelijke Bedienden Centrale - Nationaal Verbond Voor Kaderpersoneel, Oth",1
+314,"Vicariat Des Ã‰tudiants Stagiaires Et Doctorands Ã‰trangers, Oth",1
+315,"Kaj. Dendermonde, Oth",1
+316,"Kaj. Wervik, Oth",1
+317,"Kaj-acv. Gent, Oth",1
+318,"Vkz. Limburg, Oth",1
+319,"(j)kaj. Herzele, Oth",1
+320,"Kwb. Pasbrug, Oth",1
+321,"Kwb. Erembodegem, Oth",1
+322,"Kwb. Ardooie, Oth",1
+323,"Kwb. Astene, Oth",1
+324,"Kwb. Beerzel, Oth",1
+325,"Cvp. Hoboken, Oth",1
+326,"Kwb. Asse-krokegem, Oth",1
+327,"Kwb. Halle St.-martinus, Oth",1
+328,"Kwb. Muide, Oth",1
+329,"Kwb. Melsele, Oth",1
+330,"Kwb. Melsbroek, Oth",1
+331,"Kwb. Sint-rochus Halle, Oth",1
+332,"Kwb. Malderen, Oth",1
+333,"Kwb. Minderhout, Oth",1
+334,"Kwb. Mere, Oth",1
+335,"Kwb. Steenhuffel, Oth",1
+336,"Kwb. H. Hart Temse, Oth",1
+337,"Sint-augustinuskliniek, Veurne, Oth",1
+338,"Cvp. Grimbergen, Oth",1
+339,"Klj. Overrepen, Oth",1
+340,"Klj. Nazareth, Oth",1
+341,"Klj. Pittem-egem, Oth",1
+342,"Kwb. Vilvoorde, Oth",1
+343,"Kwb. Tervuren, Oth",1
+344,"Kwb. H. Hart Vilvoorde, Oth",1
+345,"Kwb. Overijse, Oth",1
+346,"Kwb. Zemst, Oth",1
+347,"Cvp-jongeren, Borgerhout, Oth",1
+348,"Cvp-jongeren. Groot-bornem, Oth",1
+349,"Jeugdharmonie De Winkelse Piccolo's, Sint-eloois-winkel, Oth",1
+350,"Fanfare Eendracht, Vrasene, Oth",1
+351,"Cvp, Aartselaar, Oth",1
+352,"Cvp, Beringen, Oth",1
+353,"Ccmb. Kortrijk, Oth",1
+354,"Cvp, Merelbeke, Oth",1
+355,"Cvp, Meulebeke, Oth",1
+356,"Cvp, Overijse, Oth",1
+357,"Cvp, Scherpenheuvel-zichem, Oth",1
+358,"Cvp. Sektie Vichte, Oth",1
+359,"Cvp-jongeren, Lommel, Oth",1
+360,"Cvp, Oostkamp, Oth",1
+361,"Christene Volkspartij (belgium), Othcvp. Wichelen, Schellebelle, Serskamp, Serskamp, Oth",1
+362,"Cvp, Buggenhout, Oth",1
+363,"Cvp, Kinrooi, Oth",1
+364,"Cvp. Merchtem-brussegem-peisegem-hamme, Oth",1
+365,"Cvp, Oosterzele, Oth",1
+366,"Ksa, Merkem-houthulst, Oth",1
+367,"Ksa-vksj, Hasselt, Oth",1
+368,"Ksa, Malegijs, Othvksj, Kemmel, Oth",1
+369,"Ksa-vksj, Kemmel, Oth",1
+370,"Vksj. Sint-elisabeth, Kortrijk, Oth",1
+371,"Ksa. Den Beiaard, Brugge, Oth",1
+372,"Ksa, Hoogstade, Oth",1
+373,"Vksj, Hamme, Oth",1
+374,"Ksa. Ter Straeten, Brugge, Oth",1
+375,"Ksa, Boom, Oth",1
+376,"Ksa-vksj, Berchem, Oth",1
+377,"Klj, Aalter, Oth",1
+378,"Chiro Turnhout, Oth",1
+379,"Vvks., Oth",1
+380,"Klj, Temse, Oth",1
+381,"Ksa, Temse, Oth",1
+382,"Ksa, Tielt, Oth",1
+383,"Ksa, Turnhout, Oth",1
+384,"Zavo. Basisschool, Zaventem, Oth",1
+385,"Jeugd En Gezondheid, Oudenaarde, Oth",1
+386,"Pontificium Consilium Pro Laicis., Oth",1
+387,"Conseil De La Jeunesse Catholique., Oth",1
+388,"Instituut Van De Heilige Familie, Berchem, Oth",1
+389,"Sint-jozefscollege, Izegem, Oth",1
+390,"Koninklijke Katholieke Harmonie De Nethezonen, Meerhout, Oth",1
+391,"Koninklijke Harmonie Excelsior Gildenhuis, Sint-niklaas, Oth",1
+392,"Koninklijk Koor En Orkest Zanglust, Tielt, Oth",1
+393,"Cvp, Oud-heverlee, Oth",1
+394,"Koninklijke Fanfare De Ware Eendracht, Schriek, Oth",1
+395,"Ksa, Gavere, Oth",1
+396,"Klj, Waanrode, Oth",1
+397,"Ksa, Zandvoorde, Oth",1
+398,"Ksa-vksj, Zele, Oth",1
+399,"Ksa-vksj, Zuienkerke, Oth",1
+400,"Regina Assumptaschool Anderlecht, Oth",1
+401,"Ksa, Waregem, Oth",1
+402,"Vrije Basisschool Bertem, Oth",1
+403,"Jan-van-ruysbroeckcollege, Oth",1
+404,"Vrije Lagere- En Kleuterschool Denderleeuw-welle, Oth",1
+405,"Instituut Dominiek Savio Mariasteen Gits, Oth",1
+406,"Sint-jozefscollege Hasselt, Oth",1
+407,"Kleuter- En Basisschool Paridaens Leuven, Oth",1
+408,"Kleuter- En Lager Onderwijs Sint-joris Menen, Oth",1
+409,"Instituut H. Graf Kinrooi, Oth",1
+410,"Vlo Basisschool Zottegem, Oth",1
+411,"Vrije Lagere En Kleuterschool Zottegem, Oth",1
+412,"Cvp Tollembeek, Oth",1
+413,"Cvp Kiel, Oth",1
+414,"Sint-annaschool Hamme, Oth",1
+415,"Vrije Lagere Meisjes- En Kleuterschool Wachtebeke, Oth",1
+416,"Sint-leocollege Brugge, Oth",1
+417,"Kjm Brugge, Oth",1
+418,"Klj Attenhoven, Oth",1
+419,"Zusters Van Liefde Van Jezus En Maria, Oth",1
+420,"Zusters Van Liefde Van Roeselare, Oth",1
+421,"Cva-wereldscholen. Mechelen En Klein Brabant, Oth",1
+422,"Cvp. Ombudsdienst, Oth",1
+423,"Christene Volkspartij (belgium), Edteuropese Volkspartij, Edt",1
+424,"Action Catholique Rurale Des Femmes (a.C.R.F.), Oth",1
+425,"Imcs., Othmiec., Othpax Romana, Oth",1
+426,"Fedekam. Antwerpen, Oth",1
+427,"Zusters Bernardinnen, Oth",1
+428,"Vvksm. Tak Kapoenen, Oth",1
+429,"Vvksm. Welpen - Kabouters, Oth",1
+430,"Daens-aktiefonds, Antwerpen, Oth",1
+431,"Guatemala Komitee, Oth",1
+432,"Missiegroep Van Oelegem, Oth",1
+433,"Wereldscholen, Othcva. Onderwijssector, Oth",1
+434,"Missionaries Of The Sacred Heart., Oth",1
+435,"Iteco, Oth",1
+436,"Oasecentrum Don Bosco, Oth",1
+437,"Roepingenpastoraal, Schoten, Oth",1
+438,"Beroepsvereniging Van Het Personeel Van Het Vrij Onderwijs, Oth",1
+439,"Medische Missiezusters, Oth",1
+440,"Ncmv. Jongeren Onder Leercontract, Oth",1
+441,"Interdiocesaan Centrum Brussel, Oth",1
+442,"Antwerpen, Bisdom. Jeugdpastoraal, Oth",1
+443,"Ksa-vksj. Gouw Antwerpen, Oth",1
+444,"Vksj. West-vlaanderen, Oth",1
+445,"FacultÃ© De ThÃ©ologie Catholique De Kinshasa. Centre D'Ã©tudes Des Religions Africaines, Oth",1
+446,"Nsko, Nationaal Secretariaat Van Het Katholiek Onderwijs, OthsecrÃ©tariat National De L'enseignement Catholique Bruxelles., Oth",1
+447,"Vormingscentrum Samen, Oth",1
+448,"Ksa-vksj. West-vlaanderen. Sein, Oth",1
+449,"Ksj-brabant, Oth",1
+450,"EmmaÃ¼sparochie, Turnhout, Oth",1
+451,"Wereldscholen. Sektor Arbeidersstrijd, Oth",1
+452,"Wereldscholen. Tendenswerkgroep, Oth",1
+453,"Vakantiegenoegens Ieper, Oth",1
+454,"Vrienden Van Vks, Oth",1
+455,"Paters Van De Heilige Geest, Oth",1
+456,"Internationale Technische CoÃ¶peratie, Oth",1
+457,"Wereldscholen, Gent, Oth",1
+458,"Milac. West-vlaanderen, Oth",1
+459,"Legio Mariae. Senatus De Bruxelles, Oth",1
+460,"Lbc., Oth",1
+461,"Vkaj. Limburg, Oth",1
+462,"Ncmv. Sint-kruis-brugge, Oth",1
+463,"Oeuvres Missionnaires, Temploux, Oth",1
+464,"Cdc., Oth",1
+465,"De Vrienden Van De Abdij Van 't Park, Heverlee, Oth",1
+466,"Kirche In Not/ostpriesterhilfe, Oth",1
+467,"Vereniging Universitaire Parochies, Oth",1
+468,"Vriendenkring Familia, Oth",1
+469,"Unie Van Moeders Van Priesters En Religieuzen, Oth",1
+470,"Operatie Bevrijding, Oth",1
+471,"FÃ©dÃ©ration Catholique Mondiale Pour L'apostolat Biblique, Oth",1
+472,"Wereldsolidariteit, Oth",1
+473,"Diocesaan Missiecentrum, Hasselt, Oth",1
+474,"Kwb-limburg, Oth",1
+475,"Sobrietas. West-vlaanderen, Edtsobrietas-limburg, Hasselt, Edtsobrietas. Oost-vlaanderen, Edt",1
+476,"Cvp, Rpy",1
+477,"Groupe DÃ©mocrate-chrÃ©tien Du Parlement EuropÃ©en, Edt",1
+478,"Salvatorianen, Edt",1
+479,"Acv. Verbond Brugge, Edt",1
+480,"Cm, Christelijke Mutualiteit, Edt",1
+481,"Protos Gent, Edt",1
+482,"ConfÃ©dÃ©ration GÃ©nÃ©rale Des Syndicats ChrÃ©tiens Et Libres De Belgique, Oth",1
+483,"Acv, Algemeen Christelijk Vakverbond, Oth",1
+484,"Zusters Sint-vincentius A Paulo Gijzegem, Add",1
+485,"Zusters H. Vincentius Ã€ Paulo, Oth",1
+486,"Priesters Van Het Heilig Hart Van Jezus, Edt",1
+487,"Salesianen Van Don Bosco,, Brussel, Oth",1
+488,"Jeunesse Ã‰tudiante Catholique, Rpy",1
+489,"Vakantiegenoegens, Oth",1
+490,"Internationaal Ontmoetingscentrum Le Carrefour, Othmontfortanen. Belgische Provincie, Othdaughters Of Wisdom, Othbroeders Van Sint-gabriÃ«l In BelgiÃ« En Kongo, Oth",1
+491,"Cvp. Groot Gavere, Oth",1
+492,"Davidsfonds Steenhuize-wijnhuize, Oth",1
+493,"Nonviolent Alternatives, Oth",1
+494,"Abbaye Notre-dame Du Val-dieu, Oth",1
+495,"Edifa, Bruxelles, Oth",1
+496,"Sint-michielsdomein Hasselt, Oth",1
+497,"Aiempr., Oth",1
+498,"Oriens Institute For Religious Research, Othcicm Scheut, Oth",1
+499,"Cicm Scheut, Othscheutisten - Kameroense Provincie, Oth",1
+500,"Oxfam-wereldwinkels, Oth",1
+501,"Marriage Encounter, Oth",1
+502,"Anderlecht, Paroisse St FranÃ§ois-xavier, Oth",1
+503,"Cefa., Oth",1
+504,"Les Amis De Soeur Emmanuelle, Othde Vrienden Van Zuster Emmanuelle, Othcentre MÃ©dico Social ""salam"" Paix, Othmedical Social Centre ""salam"", Oth",1
+505,"Kwb. Merchtem, Oth",1
+506,"Vandekerckhove, Georges, Othvandekerkchove, Jozef, Oth",1
+507,"FrÃ¨res Des Ã‰coles ChrÃ©tiennes, Oth",1
+508,"Scouts En Gidsen Vlaanderen Beringen, Oth",1
+509,"Compagnie De JÃ©sus. Sjs, SecrÃ©tariat De La Justice Sociale, Oth",1
+510,"Togs., Oth",1
+511,"Crefi, Oth",1
+512,"Akvt. Oost-vlaanderen, Oth",1
+513,"Katholische Weltunion Der Presse, Oth",1
+514,"Union Catholique Internationale De La Presse., Oth",1
+515,"Kwb Ossel, Oth",1
+516,"Pastorale Werkgroep Sancta Maria, Oth",1
+517,"Pinkstergemeente, Oth",1
+518,"Hors Les Murs, Oth",1
+519,"Oosteuropa Zending, Oth",1
+520,"Entraide Et FraternitÃ©, Brussel, Oth",1
+521,"Katholieke Filmliga, Oth",1
+522,"Service National D'animation Des Plaines De Jeux, Oth, Snapj",1
+523,"Societas Jesu., Edt",1
+524,"Vice-postulation De L'opus Dei En Belgique, Oth",1
+525,"Equipes Notre-dame-belgique, Oth",1
+526,"Curia Generalis Societatis Iesu, Oth",1
+527,"CommunautÃ© De Vie ChrÃ©tienne, Oth, Cvx",1
+528,"CommunautÃ© De Vie ChrÃ©tienne, Oth",1
+529,"Etudiants Institut SupÃ©rieur De Philosophie Saint Pierre Canisius, Oth",1
+530,"AmitiÃ© Adrienne Von Speyr, Oth",1
+531,"Cfip, Othinstitut FuÌˆr Arbeit Und Technik (hamburg, Germany)., Oth, Institut FranÃ§ais D'analyse Transactionnelle",1
+532,"Fondation Universitaire Pour La CoopeÌration Internationale Au DeÌveloppement, Oth",1
+533,"Vriendenkring Ssc, Oth",1
+534,"Operatie Mobilisatie BelgiÃ«, Oth",1
+535,"Cepas, Centre D'etudes Pour L'action Sociale, Oth",1
+536,"Society Of Jesus. Sjs, Social Justice Secretariat, Oth",1
+537,"Eglise Protestante De Wavre, Oth",1
+538,"Instituut Voor Voortdurende Vorming Van De Middenstand Brussel, Oth",1
